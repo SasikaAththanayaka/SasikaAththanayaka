@@ -1,7 +1,13 @@
-### Hi there I am Sasika Aththanayaka👋
+<h1 align='center'>Hi there I am Sasika Aththanayaka👋</h1>
 
 # :abacus: About Me 
 I am a final-year student specializing in Statistics, with a knack for data analysis. Proficient in Python, R,  MySQL, and Power BI. I employ these tools to extract valuable insights from intricate datasets. With a strong foundation in statistical methods, I aspire to make meaningful contributions to the field.
+  - 📫 How to reach me [email](sasikaharshana97@gmail.com)
+  - 💬 Ask me about anything, I am happy to help
+
+
+### Connect with me :
+
 
 <!--
 **SasikaAththanayaka/SasikaAththanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
