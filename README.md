@@ -1,11 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="100"/>
 </div>
 <div id="header" align="center">
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sasika+Aththanayaka;Final+Year+Statistics+Student;Problem+Solver" alt="Typing SVG" /></a>
 
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikaaththanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="sasikaaththanayaka" /> </p>
 
 
 # :abacus: About Me 
