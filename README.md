@@ -59,7 +59,7 @@ I am a final-year student specializing in Statistics, with a knack for data anal
 </div>
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SasikaAththanayaka&theme=dark&show_icons=true)
   &nbsp;  &nbsp;  &nbsp;&nbsp;
