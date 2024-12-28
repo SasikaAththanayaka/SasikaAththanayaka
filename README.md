@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
   
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sasika+Aththanayaka;Final+Year+Statistics+Student;Problem+Solver;Data+Analysis" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Sasika+Aththanayaka;PowerBI+Dashboard+Developer;Problem+Solver;Data+Analysis;ML+/+AL" alt="Typing SVG" /></a>
 
 </div>
 
@@ -11,7 +11,7 @@
 
 
 # :abacus: About Me 
-I am a final-year student specializing in Statistics, with a knack for data analysis. Proficient in Python, R,  MySQL, and Power BI. I employ these tools to extract valuable insights from intricate datasets. With a strong foundation in statistical methods, I aspire to make meaningful contributions to the field.
+I am a graduate in Statistics with expertise in data analysis and visualization. Proficient in Python, R, MySQL, Power BI, and Microsoft Fabric, I specialize in building end-to-end data solutions. Leveraging my strong foundation in statistical methods, I have worked on diverse projects, including real-time data dashboards, inventory management systems, and predictive modeling. I am passionate about transforming complex datasets into actionable insights and aspire to drive impactful data-driven decisions in my future endeavors.
   - 📫 How to reach me [email](sasikaharshana97@gmail.com)
   - 💬 Ask me about anything, I am happy to help
 
